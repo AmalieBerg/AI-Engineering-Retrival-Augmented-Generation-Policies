@@ -1,0 +1,149 @@
+BUSINESS TRAVEL POLICY
+=======================
+
+Document ID: POL-FIN-003
+Version: 2.5
+Effective Date: April 15, 2025
+Owner: Finance & Travel Operations
+
+
+1. SCOPE
+--------
+This policy covers all business travel by Northwind employees, including
+domestic, international, and offsite events. It supplements (and where
+inconsistent, supersedes) the Expense Reimbursement Policy (POL-FIN-001)
+for travel-related expenses.
+
+
+2. APPROVAL REQUIREMENTS
+------------------------
+All business travel must be pre-approved through the Concur Travel system.
+Approval thresholds:
+
+  Domestic travel (same country):   Manager approval
+  International travel:              Director approval
+  Travel exceeding $5,000 total:     VP approval
+  Travel to elevated-risk locations: VP + Security approval (see Section 9)
+
+
+3. BOOKING REQUIREMENTS
+-----------------------
+All travel must be booked through Concur Travel using the corporate AmEx
+account. Bookings made outside the system will be reimbursable only with
+documented justification (e.g., emergency travel, system outage).
+
+Booking lead times:
+  - Domestic flights:        Minimum 14 days in advance when possible
+  - International flights:   Minimum 21 days in advance when possible
+
+Last-minute bookings (within 7 days) for non-urgent business require
+manager justification.
+
+
+4. PREFERRED VENDORS
+--------------------
+Northwind has negotiated rates with the following preferred vendors. Use
+them whenever practical:
+
+  Airlines:    Delta, United, American (domestic);
+               Lufthansa, British Airways, JAL (international)
+  Hotels:      Marriott, Hilton, IHG (chains with Northwind corporate rate)
+  Car Rental:  Hertz, Enterprise
+  Ride-share:  Uber for Business (linked to corporate account)
+
+
+5. CLASS OF SERVICE
+-------------------
+Refer to POL-FIN-001 Section 4 for full airfare class rules. Quick summary:
+
+  - Domestic flights:                  Economy only
+  - International flights < 6 hours:   Economy only
+  - International flights 6-10 hours:  Premium economy permitted
+  - International flights > 10 hours:  Business class permitted
+  - First class:                       C-suite approval required for any leg
+
+
+6. EXTENDING TRIPS FOR PERSONAL TIME
+-------------------------------------
+Employees may extend a business trip for personal time, provided:
+
+  - The business portion is unaffected
+  - Northwind pays only the cost of the business portion (the employee
+    must demonstrate that no additional cost is incurred)
+  - PTO is used for personal-extension days
+  - Manager is informed in advance
+
+
+7. SPOUSE OR FAMILY TRAVEL
+--------------------------
+Spouses and family members may not travel on the corporate account.
+Northwind does not reimburse spouse or family travel expenses, with the
+following exceptions:
+
+  - C-suite executives may bring a spouse to designated business events
+    (Board meetings, major industry events) with CEO approval
+  - Approved relocation travel covered under POL-HR-008
+
+
+8. TRAVEL INSURANCE
+-------------------
+All international travel is automatically covered by Northwind's corporate
+travel insurance policy, including:
+
+  - Medical emergency coverage up to $500,000
+  - Trip interruption coverage
+  - Lost baggage coverage
+  - Emergency evacuation services
+
+For details and emergency contacts, see the Travel Insurance card included
+in the Concur booking confirmation, or contact travel@northwind.example.
+
+
+9. ELEVATED-RISK LOCATIONS
+---------------------------
+Travel to locations classified as elevated risk by Northwind's Security
+team requires additional approval and may require a pre-departure security
+briefing. The current list of elevated-risk locations is maintained at
+intranet.northwind.example/security/travel-risk.
+
+Travel to locations on the prohibited list is not permitted under any
+circumstances. The prohibited list currently includes countries under
+comprehensive U.S. sanctions.
+
+
+10. DAILY EXPENSE LIMITS
+------------------------
+Daily limits for travel-related expenses (see POL-FIN-001 for full details):
+
+  Lodging:    $200-$350/night depending on city tier
+  Meals:      $110/day (or per diem: $20 breakfast, $30 lunch, $60 dinner)
+  Incidentals: $25/day (tips, water, in-room snacks)
+
+
+11. CANCELLATION AND CHANGE FEES
+---------------------------------
+Cancellation or change fees are reimbursable when:
+
+  - The change is due to a business need
+  - The change is due to a documented illness or emergency
+  - The change is due to a flight disruption beyond the employee's control
+
+Cancellation fees for purely personal reasons are not reimbursable.
+
+
+12. FREQUENT FLYER AND HOTEL POINTS
+------------------------------------
+Employees may retain frequent flyer miles and hotel loyalty points earned
+through business travel for personal use. However, employees must not
+choose more expensive options (flights, hotels) solely to accumulate
+points. Status matches and benefits earned through business travel are at
+the discretion of the loyalty program.
+
+
+13. POST-TRIP REPORTING
+-----------------------
+Expense reports for travel must be submitted within 30 days of return
+trip date. Reports submitted after 60 days may be denied per POL-FIN-001.
+
+
+For questions, contact travel@northwind.example or your Finance partner.

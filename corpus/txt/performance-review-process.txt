@@ -1,0 +1,147 @@
+PERFORMANCE REVIEW PROCESS
+==========================
+
+Document ID: POL-HR-005
+Version: 2.2
+Effective Date: January 1, 2025
+Owner: People Operations
+
+
+1. PURPOSE
+----------
+Northwind Technologies uses a structured performance review process to provide regular feedback, support employee development, and inform compensation and promotion decisions. This document describes the process, timing, and ratings.
+
+
+2. REVIEW CYCLE
+---------------
+Northwind operates on a biannual review cycle:
+
+  - H1 Review:  Conducted in July (covers performance from January-June)
+  - H2 Review:  Conducted in January (covers performance from July-December)
+
+In addition, all employees receive a quarterly informal check-in with their manager focused on goals, blockers, and development priorities.
+
+
+3. RATING SCALE
+---------------
+Performance is rated on a five-point scale:
+
+  5 - Significantly Exceeds Expectations
+      Consistently delivers exceptional outcomes that materially impact the
+      business. Represents the top 5-10% of employees at their level.
+
+  4 - Exceeds Expectations
+      Consistently goes beyond what is required of the role. Strong candidate
+      for promotion within 6-12 months.
+
+  3 - Meets Expectations
+      Fully delivers on the responsibilities of the role. The majority of
+      employees fall in this category.
+
+  2 - Partially Meets Expectations
+      Delivers on some but not all responsibilities. Requires a development
+      plan with specific improvement targets.
+
+  1 - Does Not Meet Expectations
+      Substantial gaps in performance. Will be placed on a Performance
+      Improvement Plan (PIP).
+
+
+4. REVIEW COMPONENTS
+--------------------
+Each formal review includes:
+
+  a) Self-Assessment
+     The employee completes a self-assessment in Lattice covering
+     achievements, areas for growth, and development goals. Due 2 weeks
+     before the review meeting.
+
+  b) Manager Assessment
+     The manager evaluates the employee against role-specific expectations
+     and assigns a rating. Due 1 week before the review meeting.
+
+  c) Peer Feedback
+     Each employee selects 3-5 peers to provide structured feedback.
+     Manager may add additional peer reviewers. Peer feedback is shared
+     in summarized form, not verbatim.
+
+  d) Upward Feedback (managers only)
+     Direct reports of managers provide upward feedback about the
+     manager's leadership effectiveness.
+
+  e) Calibration
+     Before ratings are finalized, managers participate in calibration
+     sessions to ensure consistency across teams.
+
+  f) Review Meeting
+     A 60-minute meeting between employee and manager to discuss the
+     review and align on next-cycle goals.
+
+
+5. COMPENSATION DECISIONS
+-------------------------
+Compensation reviews occur once per year, in March, following the H2 review:
+
+  - Merit increases:    Based on H1 + H2 ratings, market data, and budget
+  - Equity refreshes:   Targeted at 4-rated and 5-rated employees, plus
+                        retention-critical roles
+  - Bonuses:            Determined by individual rating and company performance
+
+Mid-year (July) is reserved for promotions and equity adjustments tied to
+role changes.
+
+
+6. PROMOTION PROCESS
+--------------------
+Promotions require:
+
+  - Two consecutive review cycles at the "Exceeds" level or higher, OR
+    one cycle at "Significantly Exceeds"
+  - Demonstration of scope at the next level for at least 6 months
+  - Manager nomination via the promotion packet template
+  - Approval by the promotion committee for the relevant level
+
+Promotion decisions are communicated within 30 days of the committee meeting.
+
+
+7. PERFORMANCE IMPROVEMENT PLAN (PIP)
+-------------------------------------
+Employees rated 1 or who fail to meet critical job requirements may be
+placed on a PIP. A PIP includes:
+
+  - Specific, measurable improvement targets
+  - A defined timeline of 30, 60, or 90 days
+  - Weekly check-ins with the manager
+  - Clear consequences if targets are not met (which may include termination)
+
+PIPs are designed to be fair and to give the employee a genuine opportunity
+to improve. Employees on a PIP may request People Operations involvement at
+any time.
+
+
+8. APPEALS
+----------
+Employees who believe their review was conducted unfairly may submit an
+appeal to People Operations within 14 days of the review meeting. The appeal
+will be reviewed by the People Operations Director and the employee's
+skip-level manager. Appeal decisions are typically issued within 21 days.
+
+
+9. CONFIDENTIALITY
+------------------
+Review content is confidential and is shared only with:
+
+  - The employee and their manager
+  - The skip-level manager
+  - People Operations
+  - The promotion or calibration committee (in aggregate form)
+
+Employees may share their own review content as they wish.
+
+
+10. RECORD RETENTION
+--------------------
+Performance review records are retained for 7 years following the review
+cycle, or for the duration of employment plus 7 years, whichever is longer.
+
+For questions about the review process, contact people-ops@northwind.example.

@@ -1,0 +1,46 @@
+You are an evaluation judge. You will be given:
+
+1. A user QUESTION
+2. The CONTEXT chunks that were retrieved from a policy corpus
+3. An ANSWER produced by an AI assistant based on that context
+
+Your job is to determine whether the ANSWER is GROUNDED in the CONTEXT.
+
+An answer is GROUNDED if and only if BOTH of the following are true:
+
+(a) Every factual claim in the answer is directly supported by — or is a faithful restatement of — content in the context.
+(b) The answer contains no claims that contradict, embellish, or invent details beyond what the context provides.
+
+An answer is NOT GROUNDED if:
+- It introduces facts, numbers, dates, names, or policies not present in the context
+- It contradicts the context (e.g., the context says "5 days" but the answer says "10 days")
+- It speculates or extrapolates beyond what the context supports
+- It blends correct information with fabricated information
+
+Special case: if the answer is a refusal (e.g., "I can only answer about our policies"), it is GROUNDED **only if** the question genuinely cannot be answered from the context. If the context contains a clear answer and the model refused, that is NOT GROUNDED.
+
+Output your verdict as STRICT JSON in exactly this form, with no additional text before or after:
+
+{
+  "grounded": true | false,
+  "rationale": "One short sentence explaining your verdict."
+}
+
+---
+
+QUESTION:
+{question}
+
+---
+
+CONTEXT:
+{context}
+
+---
+
+ANSWER:
+{answer}
+
+---
+
+Your JSON verdict:

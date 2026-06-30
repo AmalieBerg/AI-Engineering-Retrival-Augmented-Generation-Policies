@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Northwind Policy Assistant</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  <div class="page">
+    <header class="site-header">
+      <div class="brand">
+        <span class="brand-mark">N</span>
+        <span class="brand-name">Northwind</span>
+      </div>
+      <span class="site-subtitle">Policy Assistant</span>
+    </header>
+
+    <main class="main">
+      <section class="intro" id="intro">
+        <h1>Ask about Northwind policies.</h1>
+        <p class="lede">
+          A retrieval-augmented assistant grounded in our company handbook.
+          Every answer cites the source policy.
+        </p>
+        <div class="suggested-chips">
+          <button class="chip" data-question="How many PTO days do I accrue after 4 years?">
+            How much PTO do I accrue?
+          </button>
+          <button class="chip" data-question="What's the home office stipend for fully remote employees?">
+            Home office stipend?
+          </button>
+          <button class="chip" data-question="How quickly does the Security team respond to a SEV-1 incident?">
+            SEV-1 incident response time
+          </button>
+          <button class="chip" data-question="Can I view source code on my personal phone?">
+            Source code on personal devices?
+          </button>
+        </div>
+      </section>
+
+      <section class="conversation" id="conversation" aria-live="polite"></section>
+    </main>
+
+    <form class="composer" id="composer" autocomplete="off">
+      <label for="question" class="sr-only">Your question</label>
+      <input
+        type="text"
+        id="question"
+        name="question"
+        placeholder="Ask about PTO, security, expenses, remote work…"
+        maxlength="1000"
+        required
+      />
+      <button type="submit" id="submit-btn" aria-label="Send question">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="5" y1="12" x2="19" y2="12"/>
+          <polyline points="12 5 19 12 12 19"/>
+        </svg>
+      </button>
+    </form>
+
+    <footer class="site-footer">
+      <span>RAG over 15 internal policies · <a href="/health">health</a></span>
+    </footer>
+  </div>
+
+  <script src="{{ url_for('static', filename='js/chat.js') }}"></script>
+</body>
+</html>

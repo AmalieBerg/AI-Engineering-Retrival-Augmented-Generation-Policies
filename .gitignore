@@ -1,0 +1,63 @@
+# Environment
+.env
+.env.local
+*.env
+
+# Vector DB
+chroma_db/
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual envs
+venv/
+.venv/
+env/
+ENV/
+
+# Eval outputs
+eval/results/
+*.log
+
+# Model caches
+.cache/
+.huggingface/
+sentence_transformers_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Generated
+*.pid
